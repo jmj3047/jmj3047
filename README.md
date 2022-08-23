@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Minjee's Github 👋
 
 <!--
 **jmj3047/jmj3047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
