@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:4776E6,100:8E54E9&idx=24&height=50&section=header&text=Welcome%20to%20Minjee's%20Github%20👋&fontAlign=50&fontColor=000000&fontSize=27&textBg=false&fontAlignY=60&rotate=0&stroke=000000&animation=twinkling)
 
-<br>
+
 <br>
 <p align="center">
     ⚒️Tech Stack⚒️<br>
