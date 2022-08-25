@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<br>
 <p align="center">
     💡used at least once
 </p>
