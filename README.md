@@ -5,7 +5,6 @@
 <p align="center">
     🎓Education🎓
     <br>
-    <br>
 BA in English Literature Linguistics from Sungshin University<br>
 Double majored in Cultural Narrative<br>
 Exchange student in Hochschule für angewandte Wissenschaften Fachhochschule Aschaffenburg🇩🇪<br>
