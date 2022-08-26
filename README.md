@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:4776E6,100:8E54E9&idx=24&height=50&section=header&text=Welcome%20to%20Minjee's%20Github%20👋&fontAlign=53&fontColor=7a7878&fontSize=27&textBg=false&fontAlignY=60&rotate=0&stroke=7a7878&animation=twinkling)
 
 <br>
-<p align="center">
+<p align="center" display="inline-block">
 
 🎓 BA in English Literature Linguistics from Sungshin University<br>
 🎓 Double majored in Cultural Narrative<br>
