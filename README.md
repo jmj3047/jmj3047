@@ -42,12 +42,13 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
-✉️SNS✉️
-    <br>
+<p align="center">
+    ✉️SNS✉️
+</p>
 
 <div align = center>
 
-[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:jangminjee95@gmail.com) [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://gonekng.github.io)](https://gonekng.github.io)
+[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:jangminjee95@gmail.com) [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io)](https://jmj3047.github.io)
 
 </div>
 <!--
