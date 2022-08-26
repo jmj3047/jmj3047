@@ -3,11 +3,9 @@
 
 
 <br>
-<p align="center">
     ⚒️Tech Stack⚒️<br>
-    💡used as the main
-</p>
-
+    💡used as the main<br>
+<br>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -18,9 +16,9 @@
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
-<p align="center">
+<br>
     💡used at least once
-</p>
+<br>
 
 <p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
