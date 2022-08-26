@@ -12,7 +12,7 @@ Completion of Master's Course in Practical Spoken Language Processing from Hanku
 </p>
 <br>
 <p align="center">
-    ⚒️Tech Stack⚒️<br>
+    <strong>⚒️Tech Stack⚒️<br></strong>
     💡used as the main
 </p>
 
