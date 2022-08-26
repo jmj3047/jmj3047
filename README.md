@@ -43,9 +43,9 @@
 </p>
 
 <img src="https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gmail.com">
-https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gmail.com
 <img src="https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io">
 
+<img alt="Gmail" src ="https://img.shields.io/badge/gmail-b23121.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jangminjee@gmail.com"/>
 
 <!--
 <p align="center">
