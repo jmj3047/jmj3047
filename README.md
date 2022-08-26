@@ -42,14 +42,11 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
-<img src="https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gmail.com">
-<img src="https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io">
-
-<img alt="Gmail" src ="https://img.shields.io/badge/gmail-b23121.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jangminjee@gmail.com"/>
-
-<div align = left>
-
-[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:donumm64@gmail.com) [![instagram badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gone_kng)](https://www.instagram.com/gone_kng) [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://gonekng.github.io)](https://gonekng.github.io)
+<div align = center>
+✉️SNS✉️
+    <br>
+[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee95@gmail.com)](mailto:jangminjee95@gmail.com) <br>
+[![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io)](https://jmj3047.github.io)
 
 </div>
 
