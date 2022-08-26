@@ -41,9 +41,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
+<br>
 
 <p align="center">
-    ✉️SNS✉️
+    📩SNS📩
 </p>
 
 <div align = center>
@@ -51,6 +52,7 @@
 [![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:jangminjee95@gmail.com) [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io)](https://jmj3047.github.io)
 
 </div>
+
 <!--
 <p align="center">
 [gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com)(mailto:jangminjee95@gmail.com) <br>
