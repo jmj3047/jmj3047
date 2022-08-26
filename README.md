@@ -42,12 +42,14 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 </p>
 
+
+
+<!--
 <p align="center">
 [gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com)(mailto:jangminjee95@gmail.com) <br>
 [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io)](https://jmj3047.github.io)<br>
 </p>
 
-<!--
 **jmj3047/jmj3047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
