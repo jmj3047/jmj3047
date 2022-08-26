@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com)](mailto:jangminjee95@gmail.com) <br>
+[gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com)(mailto:jangminjee95@gmail.com) <br>
 [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io)](https://jmj3047.github.io)<br>
 </p>
 
