@@ -43,6 +43,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com">
+"https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jangminjee@gamil.com"
 <img src="https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://jmj3047.github.io">
 
 
