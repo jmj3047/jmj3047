@@ -44,7 +44,7 @@
 <br>
 
 <p align="center">
-    📩SNS📩
+    <strong>📩SNS📩</strong>
 </p>
 
 <div align = center>
