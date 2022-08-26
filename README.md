@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-    🎓Education🎓
+    <strong>🎓Education🎓</strong>
     <br>
 BA in English Literature Linguistics from Sungshin University<br>
 Double majored in Cultural Narrative<br>
