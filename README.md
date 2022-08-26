@@ -1,7 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:4776E6,100:8E54E9&idx=24&height=50&section=header&text=Welcome%20to%20Minjee's%20Github%20👋&fontAlign=53&fontColor=7a7878&fontSize=27&textBg=false&fontAlignY=60&rotate=0&stroke=7a7878&animation=twinkling)
 
-
+<br>
+<p align="center">
+🎓 BA in English Literature Linguistics from Sungshin University
+🎓 Double majored in Cultural Narrative
+🎓 Exchange student in Hochschule für angewandte Wissenschaften Fachhochschule Aschaffenburg(aschaffenburg university of applied sciences)🇩🇪
+🎓 Completion of Master's Course in Practical Spoken Language Processing from Hankuk University of Foreign Studies
+</p>
 <br>
 <p align="center">
     ⚒️Tech Stack⚒️<br>
