@@ -6,7 +6,7 @@
 
 🎓 BA in English Literature Linguistics from Sungshin University<br>
 🎓 Double majored in Cultural Narrative<br>
-🎓 Exchange student in Hochschule für angewandte Wissenschaften Fachhochschule Aschaffenburg(aschaffenburg university of applied sciences)🇩🇪<br>
+🎓 Exchange student in Hochschule für angewandte Wissenschaften Fachhochschule Aschaffenburg🇩🇪<br>
 🎓 Completion of Master's Course in Practical Spoken Language Processing from Hankuk University of Foreign Studies<br>
 </p>
 <br>
