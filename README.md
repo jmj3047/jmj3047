@@ -5,7 +5,7 @@
 <p align="center">
     <strong>🎓Education🎓</strong>
     <br>
-❄️ Mastr in Information Technology and Systems from University of Canberra<br>
+❄️ Master in Information Technology and Systems from University of Canberra<br>
 🦉 Master in Practical Spoken Language Processing from Hankuk University of Foreign Studies<br>
 🔮 BA in English Literature Linguistics from Sungshin University<br>
 🔮 Double majored in Cultural Narrative<br>
